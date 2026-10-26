@@ -1,16 +1,22 @@
-# MC-TerBlanche
-👋 Hi, I’m Michiel Coenraad TerBlanche
+# Hi, I'm Mico 👋
 
-o      🎓 Software Engineering Student at Belgium Campus iTversity 
+Third-year Bachelor of Computing student at **Belgium Campus iTversity** in Pretoria, focused on software engineering. I enjoy building practical, well-structured applications and finding efficient solutions to problems.
 
-o      🌱 Passionate about AI, IoT, and Sustainable Tech 
+I'm currently looking for **[an internship / junior developer role]**.
 
-o       💼 Seeking internship/graduate opportunities in software development 
+## 🛠️ What I work with
 
-🚀 Skills
+- **Languages:** Java, C#, JavaScript, HTML, CSS
+- **Databases:** PostgreSQL, MongoDB, Microsoft Access
+- **Frameworks and tools:** Java Swing, JDBC, Node.js, EJS, Git/GitHub, Microsoft Power Platform
 
-o        Programming: C#, JavaScript, SQL
+## 📂 Projects
 
-o        Tools: Git, Power BI
+- **[Cleaning Inventory & Issuance System](https://github.com/INFIRNALDRAGON/PRG381_Project)**: Java Swing desktop app with JDBC and PostgreSQL for managing cleaning stock, suppliers and issuances. Built in a team of five. I worked on **[your role]**.
+- **[Event Manager Website](https://github.com/INFIRNALDRAGON/Event-Manager-Website)**: **[one line on what it does]**, built with Node.js and EJS using an MVC structure.
+- **[PRG 282 Project](https://github.com/INFIRNALDRAGON/PRG_282_Project)**: **[one line on what it does]**, a layered C# application.
 
-o         Cloud: AWS, Azure
+## 📫 Get in touch
+
+- LinkedIn: www.linkedin.com/in/michiel-coenraad-terblanche
+- Email: micoterblanche@gmail.com
