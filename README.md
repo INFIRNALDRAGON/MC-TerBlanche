@@ -12,9 +12,9 @@ I'm currently looking for **[an internship / junior developer role]**.
 
 ## 📂 Projects
 
-- **[Cleaning Inventory & Issuance System](https://github.com/INFIRNALDRAGON/PRG381_Project)**: Java Swing desktop app with JDBC and PostgreSQL for managing cleaning stock, suppliers and issuances. Built in a team of five. I worked on **[your role]**.
-- **[Event Manager Website](https://github.com/INFIRNALDRAGON/Event-Manager-Website)**: **[one line on what it does]**, built with Node.js and EJS using an MVC structure.
-- **[PRG 282 Project](https://github.com/INFIRNALDRAGON/PRG_282_Project)**: **[one line on what it does]**, a layered C# application.
+- **[Cleaning Inventory & Issuance System](https://github.com/INFIRNALDRAGON/PRG381_Project)**: Java Swing desktop app with JDBC and PostgreSQL for managing cleaning stock, suppliers and issuances. Built in a team of five. I worked on the backend. I was added late to the project so I made minor changes and gave advice on some changes. The project doesn't show any commits since I worked on the project through Jared.
+- **[Event Manager Website](https://github.com/INFIRNALDRAGON/Event-Manager-Website)**: We made a website that manages changes on a website for when people want to got to an event, built with Node.js and EJS using an MVC structure.
+- **[PRG 282 Project](https://github.com/INFIRNALDRAGON/PRG_282_Project)**: Made a management system where you have basic CRUD functionality and error handling for super heroes, a layered C# application.
 
 ## 📫 Get in touch
 
